@@ -25,22 +25,22 @@ Currently, we are using TF1.x. We will migrate to TF2.x in the coming months.
 ### Chapterwise folders:
 
   
-  * [Chapter 2: NLP Pipeline](https://github.com/practical-nlp/practical-nlp/tree/master/Ch2) 
+  * [02: NLP Pipeline](https://github.com/rahiakela/practical-natural-language-processing/tree/master/2-nlp-pipeline) 
 
-  * [Chapter 3: Text Representation](https://github.com/practical-nlp/practical-nlp/tree/master/Ch3) 
+  * [03: Text Representation](https://github.com/rahiakela/practical-natural-language-processing/tree/master/3-text-representation) 
 
-  * [Chapter 4: Text Classification](https://github.com/practical-nlp/practical-nlp/tree/master/Ch4) 
+  * [04: Text Classification](https://github.com/rahiakela/practical-natural-language-processing/tree/master/4-text-classification) 
   
-  * [Chapter 5: Information Extraction](https://github.com/practical-nlp/practical-nlp/tree/master/Ch5) 
+  * [05: Information Extraction](https://github.com/rahiakela/practical-natural-language-processing/tree/master/5-information-extraction) 
   
-  * [Chapter 6: ChatBots](https://github.com/practical-nlp/practical-nlp/tree/master/Ch6) 
+  * [06: ChatBots](https://github.com/rahiakela/practical-natural-language-processing/tree/master/6-chatbots) 
   
-  * [Chapter 7: Topics in Brief](https://github.com/practical-nlp/practical-nlp/tree/master/Ch7) 
+  * [07: Topics in Brief](https://github.com/rahiakela/practical-natural-language-processing/tree/master/7-topics-in-brief) 
   
-  * [Chapter 8: Social Media](https://github.com/practical-nlp/practical-nlp/tree/master/Ch8) 
+  * [08: Social Media](https://github.com/rahiakela/practical-natural-language-processing/tree/master/8-social-media) 
     
-  * [Chapter 9: E-commerce and Retail ](https://github.com/practical-nlp/practical-nlp/tree/master/Ch9)
+  * [09: E-commerce and Retail ](https://github.com/rahiakela/practical-natural-language-processing/tree/master/9-e-commerce-and-retail)
 
-  * [Chapter 10: Healthcare, Finance and Law](https://github.com/practical-nlp/practical-nlp/tree/master/Ch10) 
+  * [10: Healthcare, Finance and Law](https://github.com/rahiakela/practical-natural-language-processing/tree/master/10-healthcare-finance-and-law) 
     
-  * [Chapter 11: End-to-End NLP Process](https://github.com/practical-nlp/practical-nlp/tree/master/Ch11)
+  * [11: End-to-End NLP Process](https://github.com/rahiakela/practical-natural-language-processing/tree/master/11-end-to-end-nlp-process)

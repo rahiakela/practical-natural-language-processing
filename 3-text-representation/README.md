@@ -21,26 +21,26 @@ In these notebooks, we’ll take a look at **the different(statistical) methods 
 
 Set of notebooks associated with the chapter. 
 
-1. **[One-Hot Encoding](https://github.com/rahiakela/practical-natural-language-processing/blob/chapter-3-text-representation/1_one_hot_encoding.ipynb)**: Here we demonstrate One-Hot encoding from the first principle as well as scikit learn's implementation on our toy corpus.
+1. **[One-Hot Encoding](https://github.com/rahiakela/practical-natural-language-processing/blob/master/3-text-representation/1_one_hot_encoding.ipynb)**: Here we demonstrate One-Hot encoding from the first principle as well as scikit learn's implementation on our toy corpus.
 
-2. **[Bag of Words](https://github.com/rahiakela/practical-natural-language-processing/blob/chapter-3-text-representation/2_bag_of_words.ipynb)** : Here we demonstrate how to arrive at the bag of words representation for our toy corpus.
+2. **[Bag of Words](https://github.com/rahiakela/practical-natural-language-processing/blob/master/3-text-representation/2_bag_of_words.ipynb)** : Here we demonstrate how to arrive at the bag of words representation for our toy corpus.
     
 
-3. **[Bag of N Grams](https://github.com/rahiakela/practical-natural-language-processing/blob/chapter-3-text-representation/3_bag_of_n_gram.ipynb)**: Here we demonstrate how Bag of N-Grams work using our toy corpus.
+3. **[Bag of N Grams](https://github.com/rahiakela/practical-natural-language-processing/blob/master/3-text-representation/3_bag_of_n_gram.ipynb)**: Here we demonstrate how Bag of N-Grams work using our toy corpus.
 
-4. **[TF-IDF](https://github.com/rahiakela/practical-natural-language-processing/blob/chapter-3-text-representation/4_tf_idf.ipynb)**: Here we demonstrate how to obtain the get the TF-IDF representation of a document using sklearn's TfidfVectorizer(we will be using our toy corpus). 
+4. **[TF-IDF](https://github.com/rahiakela/practical-natural-language-processing/blob/master/3-text-representation/4_tf_idf.ipynb)**: Here we demonstrate how to obtain the get the TF-IDF representation of a document using sklearn's TfidfVectorizer(we will be using our toy corpus). 
 
-5. **[Pre-trained Word Embeddings](https://github.com/rahiakela/practical-natural-language-processing/blob/chapter-3-text-representation/5_using_pre_trained_word2vec_model.ipynb)**: Here we demonstrate how we can represent text using pre-trained word embedding models and how to use them to get representations for the full text.
+5. **[Pre-trained Word Embeddings](https://github.com/rahiakela/practical-natural-language-processing/blob/master/3-text-representation/5_using_pre_trained_word2vec_model.ipynb)**: Here we demonstrate how we can represent text using pre-trained word embedding models and how to use them to get representations for the full text.
 
-6. **[Custom Word Embeddings](https://github.com/rahiakela/practical-natural-language-processing/blob/chapter-3-text-representation/6_training_word_embeddings.ipynb)**: Here we demonstrate how to train a custom Word Embedding model(word2vec) using gensim on both, our toy corpus and a subset of Wikipedia data.
+6. **[Custom Word Embeddings](https://github.com/rahiakela/practical-natural-language-processing/blob/master/3-text-representation/6_training_word_embeddings.ipynb)**: Here we demonstrate how to train a custom Word Embedding model(word2vec) using gensim on both, our toy corpus and a subset of Wikipedia data.
 
-7. **[Vector Representations via averaging](https://github.com/rahiakela/practical-natural-language-processing/blob/chapter-3-text-representation/7_document_vectors_using_averaging_via_spacy.ipynb)**: Here we demonstrate averaging of Document Vectors using spaCy.
+7. **[Vector Representations via averaging](https://github.com/rahiakela/practical-natural-language-processing/blob/master/3-text-representation/7_document_vectors_using_averaging_via_spacy.ipynb)**: Here we demonstrate averaging of Document Vectors using spaCy.
 
-8. **[Doc2Vec Model](https://github.com/rahiakela/practical-natural-language-processing/blob/chapter-3-text-representation/8_training_document_vectors_using_gensim.ipynb)**: Here we demonstrate how to train your own doc2vec model.
+8. **[Doc2Vec Model](https://github.com/rahiakela/practical-natural-language-processing/blob/master/3-text-representation/8_training_document_vectors_using_gensim.ipynb)**: Here we demonstrate how to train your own doc2vec model.
 
-9. **[Visualizing Embeddings Using TSNE](https://github.com/rahiakela/practical-natural-language-processing/blob/chapter-3-text-representation/9_visualizing_embeddings_using_t_sne.ipynb)**: Here we demonstrate how we can use dimensionality reduction techniques such as TSNE to visualize embeddings.
+9. **[Visualizing Embeddings Using TSNE](https://github.com/rahiakela/practical-natural-language-processing/blob/master/3-text-representation/9_visualizing_embeddings_using_t_sne.ipynb)**: Here we demonstrate how we can use dimensionality reduction techniques such as TSNE to visualize embeddings.
 
-10. **[Visualizing Embeddings using Tensorboard](https://github.com/practical-nlp/practical-nlp/blob/master/Ch3/10_Visualizing_Embeddings_using_Tensorboard.ipynb)**: Here we demonstrate how we can visualize embeddings using Tensorboard.
+10. **[Visualizing Embeddings using Tensorboard](https://github.com/rahiakela/practical-natural-language-processing/blob/master/3-text-representation/10_Visualizing_Embeddings_using_Tensorboard.ipynb)**: Here we demonstrate how we can visualize embeddings using Tensorboard.
 
 
 ## 🖼️ Figures
